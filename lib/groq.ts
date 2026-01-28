@@ -1,4 +1,5 @@
 cat > lib/groq.ts << 'EOF'
+import { EOF } from 'dns/promises';
 // lib/groq.ts
 import Groq from 'groq-sdk';
 
